@@ -1,3 +1,15 @@
+### 一個小項目，前端使用到的是 react18 + antd
+
+
+
+### 後端使用了 
+
+### springcloud alibaba nacos、feign、gateway、redis、mysql、xxl-job、sentinel
+
+
+
+
+
 leadnews-user
 
 ```java
