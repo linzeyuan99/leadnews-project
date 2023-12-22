@@ -1,0 +1,23 @@
+server:
+  port: 51802
+  tomcat:
+    basedir: D:/Desktop/admin-web/admin-react-web/src/images
+spring:
+  application:
+    name: leadnews-article
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.231.129:8848
+      config:
+        server-addr: 192.168.231.129:8848
+        file-extension: yml
+  freemarker:
+    template-loader-path: classpath:\templates
+
+minio:
+  accessKey: minio
+  secretKey: minio123
+  bucket: leadnews
+  endpoint: http://172.17.2.60:9000
+  readPath: http://172.17.2.60:9000

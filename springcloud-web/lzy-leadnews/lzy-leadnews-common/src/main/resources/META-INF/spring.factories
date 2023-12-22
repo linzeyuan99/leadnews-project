@@ -1,0 +1,7 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.lzy.common.exception.ExceptionCatch,\
+  com.lzy.common.swagger.SwaggerConfiguration,\
+  com.lzy.common.swagger.Swagger2Configuration,\
+  com.lzy.common.aliyun.GreenTextScan,\
+  com.lzy.common.aliyun.GreenImageScan,\
+  com.lzy.common.redis.CacheService

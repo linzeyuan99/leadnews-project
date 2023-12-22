@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/lzy-leadnews/lzy-leadnews-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lzy-leadnews/lzy-leadnews-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lzy-leadnews/lzy-leadnews-feign-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lzy-leadnews/lzy-leadnews-feign-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lzy-leadnews/lzy-leadnews-gateway/lzy-leadnews-app-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lzy-leadnews/lzy-leadnews-gateway/lzy-leadnews-app-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lzy-leadnews/lzy-leadnews-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lzy-leadnews/lzy-leadnews-service/lzy-leadnews-article/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lzy-leadnews/lzy-leadnews-service/lzy-leadnews-article/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lzy-leadnews/lzy-leadnews-service/lzy-leadnews-schedule/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lzy-leadnews/lzy-leadnews-service/lzy-leadnews-schedule/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lzy-leadnews/lzy-leadnews-service/lzy-leadnews-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lzy-leadnews/lzy-leadnews-service/lzy-leadnews-user/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lzy-leadnews/lzy-leadnews-test/freemarker-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lzy-leadnews/lzy-leadnews-test/freemarker-demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lzy-leadnews/lzy-leadnews-test/minio-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lzy-leadnews/lzy-leadnews-test/minio-demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lzy-leadnews/lzy-leadnews-utils/src/main/java" charset="UTF-8" />
+  </component>
+</project>
