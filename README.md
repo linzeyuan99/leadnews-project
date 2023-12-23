@@ -86,7 +86,6 @@ spring:
               - PUT
               - OPTION
       routes:
-        # 平台管理
         - id: user
           uri: lb://leadnews-user
           predicates:
