@@ -22,10 +22,8 @@ spring:
     url: jdbc:mysql://localhost:3306/leadnews_user?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
     username: root
     password: root
-# 设置Mapper接口所对应的XML文件位置，如果你在Mapper接口中有自定义方法，需要进行该配置
 mybatis-plus:
   mapper-locations: classpath*:mapper/*.xml
-  # 设置别名包扫描路径，通过该属性可以给包中的类注册别名
   type-aliases-package: com.lzy.model.user.pojos
 ```
 
@@ -43,10 +41,8 @@ spring:
     url: jdbc:mysql://localhost:3306/leadnews_article?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
     username: root
     password: root
-# 设置Mapper接口所对应的XML文件位置，如果你在Mapper接口中有自定义方法，需要进行该配置
 mybatis-plus:
   mapper-locations: classpath*:mapper/*.xml
-  # 设置别名包扫描路径，通过该属性可以给包中的类注册别名
   type-aliases-package: com.lzy.model.user.pojos
 ```
 
@@ -64,10 +60,8 @@ spring:
     url: jdbc:mysql://localhost:3306/leadnews_schedule?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
     username: root
     password: root
-# 设置Mapper接口所对应的XML文件位置，如果你在Mapper接口中有自定义方法，需要进行该配置
 mybatis-plus:
   mapper-locations: classpath*:mapper/*.xml
-  # 设置别名包扫描路径，通过该属性可以给包中的类注册别名
   type-aliases-package: com.lzy.model.schedule.pojos
 ```
 
@@ -109,17 +103,17 @@ spring:
 
 
 
-## 注意 react 项目 
+## 注意 react 項目 
 
-1. 用的是antd的 5.11.5 版本
-2. 需要 npm - i axios 等等一些常用组件，路由之类的，还有一个富文本编辑器 reactQuill
-
-
+1. 是antd的5.11.5版本
+2. 需要 npm - i axios 等一些常用的組件，路由之類的，還有一個富文本編輯器 reactQuill 
 
 
 
-## 后端springcloud项目
 
-1. 注意nacos的对应配置修改
-2. jdbc和redis的路径
-3. 有些功能尚未开发齐全，后续更新
+
+## 後端 springcloud 項目
+
+1. 注意nacos的對應配置要修改
+2. jdbc、redis的路徑
+3. 有些功能尚未開發，後續更新
